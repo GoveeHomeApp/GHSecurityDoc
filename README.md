@@ -8,7 +8,7 @@
 （以上两种均可通过加固工具实现）<br>
 2.外部层面<br>
 越狱检测：已越狱的iOS设备是不安全的，禁止App在已越狱设备上运行。<br>
-（可以通过App内某些库进行检查 iOSSecuritySuite）
+（可以通过App内某些库进行检查 iOSSecuritySuite）<br>
 3.网络层面<br>
 防抓包：通过SeverTrust证书配置，防止网络抓包这种中间人行为，以防请求报文被篡改。<br>
 4.逆向层面<br>
