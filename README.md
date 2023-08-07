@@ -23,9 +23,6 @@
 
 #### 关于代码混淆
 1.字符串加密<br>
-2.代码逻辑混淆<br>
-（Swift 有一个swiftshield，当然也可以选择付费的加密混淆工具，很多厂商都有提供；如果自己做，那就是需要自己去找分别对应的库去弄）<br>
-
 ``` shell
     @usableFromInline class G__ee1pd4a {
     @usableFromInline static let a: String = {
@@ -37,7 +34,8 @@
     }()
     }
 ```
-
+2.代码逻辑混淆<br>
+（Swift 有一个swiftshield，当然也可以选择付费的加密混淆工具，很多厂商都有提供；如果自己做，那就是需要自己去找分别对应的库去弄）<br>
 #### 代码层面一些安全检查
 1.debug环境检查（主要是操控与查看ptrace）<br>
 2.模拟器运行检查（很简单）<br>
