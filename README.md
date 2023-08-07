@@ -55,10 +55,9 @@
 逆向与反编译这块 需要越狱设备以及Mach-O View、Hooper、idapro等软件支持 细节放在务虚或者二期去深入<br>
 
 #### 有关蓝牙的安全
-及时更新操作系统针对蓝牙漏洞的补丁
-[相关链接](https://us.norton.com/blog/mobile/bluetooth-security)https://us.norton.com/blog/mobile/bluetooth-security
+及时更新操作系统针对蓝牙漏洞的补丁<br>
+[相关链接](https://us.norton.com/blog/mobile/bluetooth-security)<br>
 
-后续会有继续更新 敬请期待 <br>
-
+后续会有每个部分的详细更新 敬请期待 <br>
 如果有相关方向的想法和建议 欢迎讨论交流 <br>
 
